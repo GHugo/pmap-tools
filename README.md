@@ -3,7 +3,7 @@ pmap-tools
 
 Tools manipulating process virtual memory mapping.
 
-Guiroux Hugo (gx.hugo@gmail.com / http://hugoguiroux.blogspot.fr/)
+Guiroux Hugo (gx.hugo+githubpmap@gmail.com / http://hugoguiroux.blogspot.fr/)
 
 ## pmap_parser:
 
